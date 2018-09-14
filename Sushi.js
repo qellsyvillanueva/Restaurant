@@ -1,4 +1,9 @@
-var spicyAhi = {
+<html>
+  <head>
+  </head>
+<body>
+  <script>
+  var spicyAhi = {
 fishType: "Ahi",
 sauce: "Sriracha & Mayo",
 price: 100.00,
